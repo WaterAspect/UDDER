@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     let anan = "anan"
+    
+    override func willMove(toParent parent: UIViewController?) {
+        
+    }
 
 
 }
